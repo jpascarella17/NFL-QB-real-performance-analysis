@@ -25,7 +25,7 @@ This project creates a **composite QBScore** using weighted, normalized stats to
    Weights reflect importance of each stat:
 
 | Stat                  | Weight |
-|--------------------------------|
+
 | Yards per Attempt (Y/A) | 0.25 |
 | Passing TDs             | 0.15 |
 | Interceptions (INT)     | 0.20 |
